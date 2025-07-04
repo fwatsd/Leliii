@@ -164,7 +164,7 @@ const animationTimeline = () => {
         cancelButtonText: 'Enggak deh 😢'
       }).then((result) => {
         if (result.isConfirmed) {
-          Swal.fire('Yeyyy!', 'Udaa legal manggil sayang dong🥺❤', 'success');
+          Swal.fire('Yeyyy!', 'Makasii bgtt bgtt yaa sayangg uda nerima aku 🥺❤', 'success');
         } else {
           Swal.fire('Yahhh:(', 'Yauda gapapa deh... tapi aku sedih 😔', 'error');
         }
